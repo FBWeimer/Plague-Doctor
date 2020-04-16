@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graphicscovid19",
+  "private_key_id": "61a1326986d98313c0bc8b59e66449f78613b550",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdm/FFkmtg8FRt\nNxgwVCQeXwEX+aPg/BZVCOFMF6mcMERbPbLvjR3IrXX68sG0vxMqKWB8kgn+5wtB\nRSRGHnzE9l1KrpL4MjVoM3SiWj8UTtO/CJKqHu8bg61sEAz3j0tNeYGIT/Al/6On\naqESfidwJHGFAfD8BXI82lf0tT3VNs3OaOXN5KIbTetjDHwlEOQ0zZ8dQEe86oDc\nVEmE9gGD//yIVRqWF2YfghVcS3Be1s4/eKGP41H8CzEFob04hLNbOYgDwj1VYSwk\ncnaEeqhgqqmypRf83XtckuUJ5gBmPqQhkLdIyw2VVLNBkA+jDVzwB/qf2NJ0QrXB\nG+JpSE/TAgMBAAECggEAOQ+PP1/uTk9UUaIjuMONvA0rSTHRWhAKSckIQFNEzc5P\nwTTKRp4xjUj3sN4YsUaIOrh2PUNmKQoe8geFRXmeNHT5e6NOhFsxKMOQU4MW2VRc\npwoEh2DhsnVu4PPCrhIL8kWuVtqSGD/AUUlyfU59GsWm77+vLp8OJ+fo9ihz9W/r\nbNUcjVLkudFuyPKu7UckAOc8Yc0Z7FuRl4yMuZhXUuo49H0hVE7CRPAMGL833iWp\nmZdL2QC2pKp8E4ZShzXGiXB0lk++/wtNfjbHiERJpD+YEbrBDvDZ0MWQxFjSGp5B\n166r8koMVximmBIiRR4gZJnoJke7SP4nkSUf9hHEgQKBgQDREHuTrqkvwiLHNoJ8\nIorTZHgsq7onC1oy5ASnicXOG/n8u/JSmovULLCyOw2tDNyZa5Daa1F+qu5BWfSV\nUGTqdSBOucpD56alIPqONlUfDRN4KNugMxaeoU1R+UB8NsLLrooVglMY6rleWfb0\nBScrFgaC1Fo7Z0jpxU3lnWXDwQKBgQDA/i7RripSyBp3Fh0X3ZoF5Ptq0KCTU3QJ\ncftHPaZ22RyrTIfVfHd8HTH7/EX9F+98A3HQDTniiV4YncO6CxmgcnJzqX6O1OeG\nMB9tJNB8D4HIrvKT62A/Nd4ZLZwXo7FFBg7pUfb49YSD8w8xszF0v6/p4UTOhZ44\nnmo6QvLokwKBgAm8ZsTd4Wsj81Krqy/0u9pUV3RdGvIuiSjNjZnvxJJwoxet+P73\ny4M6AZCLR3vDmZJbfAdv7/+iHi5U7hr1/30br0F7TXwUEaKnAoQU66nihgGWhYPU\nXT1N7bffj605L6Eko7GUvCHw7GkEb4e1pblP8UWudfVGPhME6TfEOLUBAoGAP6eW\n6bH4Y7V8hSrWDbkZxDfydRi63dz4uOTPbH/5F9okipuDcfbLsjQu+F4M952db9nz\nABxcq0uDrbrbg9GFclZNSbjt9U5jzu6wbt9lpIW42OhbOk64QCEUUFmq0mE7ZvjI\nkkxmmVbhjmPs7webmFZhP1L9zuBjf2lAwFa0p+ECgYB3ASRHQ4QrXRORYQPTyJMG\nD5ZuSmfcZmfytGXjB4lbMGAB1IUnPBZRjBogg6m/Gooa8rffFW4+uM9AruSyf8tE\nEKBCAxKsKwW9GSbPSfoAAlIt9IhycYRumu+bFD2ArQgeU0rYtsm7f6lyAsxY0fSp\nbAmpcJir0zPrhl7o0qwtdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nurse-173@graphicscovid19.iam.gserviceaccount.com",
+  "client_id": "108125541735756793182",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nurse-173%40graphicscovid19.iam.gserviceaccount.com"
+}
